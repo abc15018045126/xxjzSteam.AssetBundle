@@ -1,0 +1,9 @@
+{
+	"LoginAddr": "http://39.103.190.117:10080/",
+	"UpdateConfigURL": null,
+	"UpdateABURL": null,
+	"GameWebSite": null,
+	"ABPath": "windows.hash\\windows",
+	"ConfigsPath": "configs\\export\\json",
+	"HotFixPath": "..\\HotCode\\bin\\Debug\\netstandard2.0"
+}

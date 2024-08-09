@@ -1,0 +1,31 @@
+qilin.png
+	size: 561, 522
+	filter: Linear, Linear
+	pma: true
+shenti
+	bounds: 2, 119, 401, 239
+	offsets: 32, 0, 433, 239
+	rotate: 90
+tou
+	bounds: 345, 128, 203, 182
+wenli
+	bounds: 264, 312, 220, 208
+	offsets: 0, 0, 229, 208
+xiae
+	bounds: 481, 72, 56, 54
+ya
+	bounds: 2, 2, 11, 15
+	rotate: 90
+youhoutui
+	bounds: 243, 126, 100, 184
+	offsets: 0, 0, 100, 185
+youqiantui
+	bounds: 486, 326, 73, 194
+	offsets: 0, 19, 89, 226
+zuohoutui
+	bounds: 264, 4, 120, 215
+	offsets: 0, 0, 121, 215
+	rotate: 90
+zuoqiantui
+	bounds: 2, 15, 102, 260
+	rotate: 90

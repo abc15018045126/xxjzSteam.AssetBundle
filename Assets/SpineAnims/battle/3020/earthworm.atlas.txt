@@ -1,0 +1,41 @@
+earthworm.png
+	size: 591, 220
+	filter: Linear, Linear
+	pma: true
+koushui
+	bounds: 461, 79, 31, 84
+	rotate: 90
+shenti1
+	bounds: 265, 59, 194, 159
+sheti
+	bounds: 2, 2, 216, 261
+	offsets: 0, 0, 216, 276
+	rotate: 90
+shi1
+	bounds: 525, 149, 69, 58
+	rotate: 90
+shi2
+	bounds: 461, 112, 106, 62
+	rotate: 90
+shi3
+	bounds: 547, 36, 76, 42
+	rotate: 90
+shi5
+	bounds: 372, 10, 29, 17
+shi6
+	bounds: 461, 30, 69, 47
+wei1
+	bounds: 328, 17, 42, 40
+wei2
+	bounds: 265, 9, 48, 61
+	rotate: 90
+wei3
+	bounds: 372, 29, 28, 51
+	rotate: 90
+wei4
+	bounds: 532, 2, 46, 32
+wei5
+	bounds: 425, 3, 54, 24
+	rotate: 90
+wei6
+	bounds: 525, 114, 54, 33

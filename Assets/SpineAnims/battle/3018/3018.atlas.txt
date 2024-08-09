@@ -1,0 +1,13 @@
+3018.png
+size:2048,1024
+filter:Linear,Linear
+Body
+bounds:1078,139,544,291
+Leg1
+bounds:1507,0,533,425
+rotate:270
+Leg2
+bounds:0,112,552,421
+Leg3
+bounds:554,104,540,429
+offsets:0,0,540,430

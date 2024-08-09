@@ -1,0 +1,24 @@
+threetailfox.png
+	size: 348, 315
+	filter: Linear, Linear
+	pma: true
+body
+	bounds: 139, 204, 144, 109
+footb
+	bounds: 285, 2, 40, 79
+footf
+	bounds: 285, 209, 61, 104
+handb
+	bounds: 285, 83, 54, 124
+handf
+	bounds: 218, 2, 65, 138
+head
+	bounds: 2, 162, 135, 151
+	offsets: 0, 0, 136, 151
+tail1
+	bounds: 117, 18, 99, 122
+tail2
+	bounds: 2, 13, 113, 147
+tail3
+	bounds: 139, 142, 60, 142
+	rotate: 90

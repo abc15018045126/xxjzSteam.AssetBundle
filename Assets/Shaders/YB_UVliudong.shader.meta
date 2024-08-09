@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 32798ec160ebd224db3ef4726c811dd8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _zhezhao: {fileID: 2800000, guid: a300c1b7aa1deb74790a1988648db598, type: 3}
+  - _noise1: {fileID: 2800000, guid: ba48a48247717294684b475e38fa7d6c, type: 3}
+  - _Main: {fileID: 2800000, guid: 0b8681171a456804ca7182890ffee871, type: 3}
+  - _noise2: {fileID: 2800000, guid: aa0a487f84fac42459cf5660cb88d0f6, type: 3}
+  - _mask: {fileID: 2800000, guid: a300c1b7aa1deb74790a1988648db598, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

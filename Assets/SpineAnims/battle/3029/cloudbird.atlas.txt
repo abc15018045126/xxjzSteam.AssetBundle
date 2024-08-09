@@ -1,0 +1,24 @@
+cloudbird.png
+	size: 343, 274
+	filter: Linear, Linear
+	pma: true
+L-chi
+	bounds: 160, 5, 149, 133
+R-chi
+	bounds: 2, 81, 156, 191
+shenti
+	bounds: 160, 140, 181, 132
+	offsets: 0, 0, 209, 132
+tou
+	bounds: 2, 2, 92, 77
+	offsets: 4, 0, 96, 77
+yan1
+	bounds: 311, 80, 58, 30
+	rotate: 90
+yan2
+	bounds: 96, 53, 58, 26
+zhua1
+	bounds: 96, 6, 32, 45
+	offsets: 0, 1, 32, 46
+zhua2
+	bounds: 311, 32, 30, 46

@@ -1,0 +1,25 @@
+mountainboar.png
+	size: 472, 304
+	filter: Linear, Linear
+	pma: true
+body
+	bounds: 237, 85, 217, 175
+	offsets: 1, 0, 218, 175
+	rotate: 90
+footb
+	bounds: 414, 124, 51, 74
+footf
+	bounds: 301, 7, 76, 152
+	rotate: 90
+handb
+	bounds: 199, 2, 81, 100
+	rotate: 90
+handf
+	bounds: 2, 7, 90, 195
+	offsets: 0, 0, 92, 195
+	rotate: 90
+head
+	bounds: 2, 99, 203, 233
+	rotate: 90
+tail
+	bounds: 414, 200, 56, 102

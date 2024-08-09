@@ -1,0 +1,7 @@
+cangjingge.png
+size:244,241
+filter:Linear,Linear
+pma:true
+cangjingge
+bounds:2,2,240,237
+offsets:0,3,240,240

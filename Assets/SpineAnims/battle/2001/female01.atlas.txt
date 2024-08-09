@@ -1,0 +1,49 @@
+female01.png
+	size: 253, 267
+	filter: Linear, Linear
+	pma: true
+Bhair
+	bounds: 2, 117, 100, 148
+Fhairb
+	bounds: 191, 37, 39, 44
+Fhairf
+	bounds: 124, 10, 65, 49
+	offsets: 0, 0, 70, 49
+armb
+	bounds: 232, 22, 19, 25
+armf
+	bounds: 217, 143, 23, 32
+	rotate: 90
+body
+	bounds: 191, 83, 41, 51
+	offsets: 0, 0, 42, 51
+eyeb
+	bounds: 231, 2, 20, 18
+	offsets: 0, 0, 21, 18
+eyebrowb
+	bounds: 37, 4, 20, 9
+eyebrowf
+	bounds: 2, 4, 33, 9
+	offsets: 0, 1, 33, 10
+eyef
+	bounds: 232, 49, 32, 19
+	offsets: 0, 1, 32, 20
+	rotate: 90
+handb
+	bounds: 217, 168, 27, 33
+handf
+	bounds: 191, 5, 30, 38
+	rotate: 90
+head
+	bounds: 104, 136, 111, 129
+mine
+	bounds: 2, 15, 100, 120
+	offsets: 1, 0, 103, 121
+	rotate: 90
+mouse
+	bounds: 243, 250, 15, 8
+	rotate: 90
+skirt
+	bounds: 124, 61, 65, 73
+skirt2
+	bounds: 217, 203, 24, 62

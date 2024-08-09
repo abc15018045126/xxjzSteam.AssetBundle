@@ -1,0 +1,41 @@
+goldrat.png
+	size: 681, 120
+	filter: Linear, Linear
+	pma: true
+L-er
+	bounds: 532, 2, 37, 56
+	rotate: 90
+L-houjiao
+	bounds: 631, 68, 50, 46
+	rotate: 90
+L-qianjiao
+	bounds: 521, 41, 49, 77
+R-datui
+	bounds: 590, 9, 48, 59
+	offsets: 0, 0, 48, 60
+	rotate: 90
+R-er
+	bounds: 572, 59, 57, 59
+R-houjiao
+	bounds: 360, 18, 55, 100
+R-qianjiao
+	bounds: 417, 18, 50, 100
+fa
+	bounds: 469, 30, 88, 50
+	offsets: 0, 1, 88, 51
+	rotate: 90
+shenti
+	bounds: 2, 4, 230, 114
+	offsets: 37, 0, 267, 114
+wb
+	bounds: 234, 17, 101, 124
+	rotate: 90
+xiaba
+	bounds: 651, 19, 47, 28
+	rotate: 90
+yan1
+	bounds: 501, 6, 22, 29
+	rotate: 90
+yan2
+	bounds: 469, 5, 23, 30
+	rotate: 90

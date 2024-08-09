@@ -1,0 +1,7 @@
+skeleton.png
+size:124,111
+filter:Linear,Linear
+pma:true
+ore_10004
+bounds:2,2,120,107
+offsets:0,3,120,120

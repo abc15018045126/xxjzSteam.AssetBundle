@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"BQQ0mN4o2L8","spine":"4.0.64","x":-80,"y":-80,"width":160,"height":160,"images":"","audio":"C:/Users/Administrator/Desktop/spine相关/仓库/images"},"bones":[{"name":"root"}],"slots":[{"name":"cangku","bone":"root","attachment":"cangku"}],"skins":[{"name":"default","attachments":{"cangku":{"cangku":{"width":160,"height":160}}}}],"animations":{"act_stand":{}}}

@@ -1,0 +1,1348 @@
+fileFormatVersion: 2
+guid: d46b569302f6fec4c94627ffba382804
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6108444909151419555
+    second: world1_island_0.png
+  - first:
+      213: 8438886683513162598
+    second: world1_island_1.png
+  - first:
+      213: 8523846644719678437
+    second: world1_island_10.png
+  - first:
+      213: -988729580128460446
+    second: world1_island_11.png
+  - first:
+      213: -6552819233112288668
+    second: world1_island_12.png
+  - first:
+      213: 4360548353225781743
+    second: world1_island_13.png
+  - first:
+      213: -4580511944168105663
+    second: world1_island_14.png
+  - first:
+      213: -1712824153810771652
+    second: world1_island_15.png
+  - first:
+      213: -5832297578494714500
+    second: world1_island_16.png
+  - first:
+      213: 4452423923201337381
+    second: world1_island_17.png
+  - first:
+      213: -4269993538824887970
+    second: world1_island_18.png
+  - first:
+      213: 3793954762210184224
+    second: world1_island_19.png
+  - first:
+      213: 4356503971591199487
+    second: world1_island_2.png
+  - first:
+      213: 2032692283387010279
+    second: world1_island_20.png
+  - first:
+      213: -7140294461495471168
+    second: world1_island_3.png
+  - first:
+      213: 322396750094488042
+    second: world1_island_4.png
+  - first:
+      213: 3955565298397402581
+    second: world1_island_5.png
+  - first:
+      213: -5719878281541674663
+    second: world1_island_6.png
+  - first:
+      213: -5146197742748212506
+    second: world1_island_7.png
+  - first:
+      213: 4300671492431835348
+    second: world1_island_8.png
+  - first:
+      213: 5151394128849259384
+    second: world1_island_9.png
+  - first:
+      213: 3356240221793910144
+    second: world1_island_0_0
+  - first:
+      213: -5905781878017164128
+    second: world1_island_0_1
+  - first:
+      213: -1023914599477557053
+    second: world1_island_0_2
+  - first:
+      213: -3603582475513869926
+    second: world1_island_0_3
+  - first:
+      213: -2662902470001979344
+    second: world1_island_0_4
+  - first:
+      213: -1600331347585136022
+    second: world1_island_0_5
+  - first:
+      213: -7635401492776104388
+    second: world1_island_0_6
+  - first:
+      213: 8420143457900004102
+    second: world1_island_0_7
+  - first:
+      213: 1804648421682148206
+    second: world1_island_0_8
+  - first:
+      213: -4087180119580359874
+    second: world1_island_0_9
+  - first:
+      213: -3595736680915967595
+    second: world1_island_0_10
+  - first:
+      213: 358096115337319141
+    second: world1_island_0_11
+  - first:
+      213: 621461842591598441
+    second: world1_island_0_12
+  - first:
+      213: 967525405566222299
+    second: world1_island_0_13
+  - first:
+      213: -7941260397334115835
+    second: world1_island_0_14
+  - first:
+      213: -7559677918295428267
+    second: world1_island_0_15
+  - first:
+      213: -4449007992594868138
+    second: world1_island_0_16
+  - first:
+      213: 6314206781017429276
+    second: world1_island_0_17
+  - first:
+      213: 2062243671094981022
+    second: world1_island_0_18
+  - first:
+      213: 4266608162898710483
+    second: world1_island_0_19
+  - first:
+      213: -8524678721213243045
+    second: world1_island_0_20
+  - first:
+      213: -3222828345983733792
+    second: world1_island_0_21
+  - first:
+      213: -3365988130504746583
+    second: world1_island_0_22
+  - first:
+      213: 956336005565486715
+    second: world1_island_0_23
+  - first:
+      213: 2076667150103621823
+    second: world1_island_0_24
+  - first:
+      213: 6430196647768266453
+    second: world1_island_0_25
+  - first:
+      213: -6232412675788232916
+    second: world1_island_0_26
+  - first:
+      213: -7689262647462746873
+    second: world1_island_0_27
+  - first:
+      213: -6673536581085192278
+    second: world1_island_0_28
+  - first:
+      213: 6179142167649276922
+    second: world1_island_0_29
+  - first:
+      213: 3795432131955033308
+    second: world1_island_0_30
+  - first:
+      213: -4460935613902176143
+    second: world1_island_0_31
+  - first:
+      213: -7387557035304397951
+    second: world1_island_0_32
+  - first:
+      213: -2550042776919786584
+    second: world1_island_0_33
+  - first:
+      213: 2451766590873810929
+    second: world1_island_0_34
+  - first:
+      213: 4874594135921102916
+    second: world1_island_0_35
+  - first:
+      213: 992075640224842962
+    second: world1_island_0_36
+  - first:
+      213: 6404487849672456507
+    second: world1_island_0_37
+  - first:
+      213: -6092888268175502943
+    second: world1_island_0_38
+  - first:
+      213: 4566043319575395177
+    second: world1_island_0_39
+  - first:
+      213: -7301463484115427531
+    second: world1_island_0_40
+  - first:
+      213: 7223009988153736728
+    second: world1_island_0_41
+  - first:
+      213: -7782459356999049593
+    second: world1_island_0_42
+  - first:
+      213: 8289310141791989025
+    second: world1_island_0_43
+  - first:
+      213: -1740077615963160139
+    second: world1_island_0_44
+  - first:
+      213: 6941952413954017593
+    second: world1_island_0_45
+  - first:
+      213: 5485455827275371802
+    second: world1_island_0_46
+  - first:
+      213: 5252603963895413735
+    second: world1_island_0_47
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: world1_island_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1888
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d77e813b2c39e20800000000000000
+      internalID: 3356240221793910144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1888
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acf8df0ca27a0ea0800000000000000
+      internalID: -5905781878017164128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1888
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8cdc1c8135ac1f0800000000000000
+      internalID: -1023914599477557053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1888
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a994c24c4d08dfdc0800000000000000
+      internalID: -3603582475513869926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1888
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030950cef487b0bd0800000000000000
+      internalID: -2662902470001979344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1888
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a04484e1b7ac9e0800000000000000
+      internalID: -1600331347585136022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec791ebca990690800000000000000
+      internalID: -7635401492776104388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1728
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60385f5fcdb5ad470800000000000000
+      internalID: 8420143457900004102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1728
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6375d69d266b0910800000000000000
+      internalID: 1804648421682148206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1728
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33cf57065b6747c0800000000000000
+      internalID: -4087180119580359874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591692c2a80691ec0800000000000000
+      internalID: -3595736680915967595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1568
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2d026058638f400800000000000000
+      internalID: 358096115337319141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1568
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c121d040ef9800800000000000000
+      internalID: 621461842591598441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1568
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfb0fdea375d6d00800000000000000
+      internalID: 967525405566222299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1568
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ac5044eb9fac190800000000000000
+      internalID: -7941260397334115835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1568
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553f2a77cf0a61790800000000000000
+      internalID: -7559677918295428267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65852867dc2f142c0800000000000000
+      internalID: -4449007992594868138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1408
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1518ecfc9190a750800000000000000
+      internalID: 6314206781017429276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f9ef41bf8e9c10800000000000000
+      internalID: 2062243671094981022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1408
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0c59c489063b30800000000000000
+      internalID: 4266608162898710483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51e0c56ed142b980800000000000000
+      internalID: -8524678721213243045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1248
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef6491d1b63643d0800000000000000
+      internalID: -3222828345983733792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1248
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9551b01ab9941d0800000000000000
+      internalID: -3365988130504746583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1248
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7695a9b786954d00800000000000000
+      internalID: 956336005565486715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1248
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb036a635cdc1dc10800000000000000
+      internalID: 2076667150103621823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1248
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6922258c5ac3950800000000000000
+      internalID: 6430196647768266453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27200e21b50289a0800000000000000
+      internalID: -6232412675788232916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705ad419c504a4590800000000000000
+      internalID: -7689262647462746873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf97d066d5d263a0800000000000000
+      internalID: -6673536581085192278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 928
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af35f5f1019b0c550800000000000000
+      internalID: 6179142167649276922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 928
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4884a3a651ca430800000000000000
+      internalID: 3795432131955033308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 928
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170c877b1b29712c0800000000000000
+      internalID: -4460935613902176143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 928
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1835eb074002a7990800000000000000
+      internalID: -7387557035304397951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab35a7ea9d6c9cd0800000000000000
+      internalID: -2550042776919786584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7343179bc660220800000000000000
+      internalID: 2451766590873810929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44097c73a8906a340800000000000000
+      internalID: 4874594135921102916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d48bedd98f84cd00800000000000000
+      internalID: 992075640224842962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39380054cf41e850800000000000000
+      internalID: 6404487849672456507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1114fc666b17ba0800000000000000
+      internalID: -6092888268175502943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 608
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b365c0538dd5f30800000000000000
+      internalID: 4566043319575395177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 608
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f50d065adfbaa90800000000000000
+      internalID: -7301463484115427531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 608
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e7009a0594d3460800000000000000
+      internalID: 7223009988153736728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e1823b2762ff390800000000000000
+      internalID: -7782459356999049593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ded82c7ab890370800000000000000
+      internalID: 8289310141791989025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b148eaa0a00ad7e0800000000000000
+      internalID: -1740077615963160139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9390561c0f4c65060800000000000000
+      internalID: 6941952413954017593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1558dff201402c40800000000000000
+      internalID: 5485455827275371802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world1_island_0_47
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 448
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7bc5c97ff4e840800000000000000
+      internalID: 5252603963895413735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a65ca70b574689d43b8d344fae0d0522
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: d_1/84dcbe278375e9deff1cc7c0cdc83dcc
+  assetBundleVariant: 

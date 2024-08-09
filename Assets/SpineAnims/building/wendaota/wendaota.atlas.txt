@@ -1,0 +1,7 @@
+wendaota.png
+size:154,241
+filter:Linear,Linear
+pma:true
+wendaota
+bounds:2,2,150,237
+offsets:1,1,152,238

@@ -1,0 +1,16 @@
+516.png
+size:466,271
+filter:Linear,Linear
+pma:true
+1
+bounds:351,6,263,59
+offsets:0,0,266,59
+rotate:90
+2
+bounds:412,30,239,52
+offsets:0,0,246,57
+rotate:90
+3
+bounds:2,2,267,347
+offsets:0,1,268,348
+rotate:90

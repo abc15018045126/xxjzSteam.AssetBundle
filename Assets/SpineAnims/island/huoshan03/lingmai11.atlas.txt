@@ -1,0 +1,7 @@
+lingmai11.png
+size:334,317
+filter:Linear,Linear
+pma:true
+lingmai11
+bounds:2,2,330,313
+offsets:0,1,330,314

@@ -1,0 +1,31 @@
+ghostcrab.png
+	size: 615, 302
+	filter: Linear, Linear
+	pma: true
+body
+	bounds: 2, 8, 232, 124
+handb01
+	bounds: 319, 58, 140, 108
+handb02
+	bounds: 461, 125, 117, 69
+	offsets: 0, 0, 132, 69
+handb03
+	bounds: 461, 56, 91, 67
+handb04
+	bounds: 554, 59, 64, 59
+	rotate: 90
+handb05
+	bounds: 399, 15, 39, 64
+	rotate: 90
+handf01
+	bounds: 2, 134, 315, 166
+handf02
+	bounds: 459, 196, 104, 151
+	rotate: 90
+handf03
+	bounds: 319, 168, 138, 132
+handf04
+	bounds: 236, 15, 117, 80
+	rotate: 90
+handf05
+	bounds: 318, 2, 79, 54

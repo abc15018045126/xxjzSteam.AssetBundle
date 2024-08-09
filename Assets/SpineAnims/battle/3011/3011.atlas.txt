@@ -1,0 +1,13 @@
+3011.png
+size:1024,512
+filter:Linear,Linear
+Body
+bounds:0,65,560,410
+EmoL
+bounds:0,8,221,67
+EmoR
+bounds:0,182,76,120
+offsets:0,44,203,164
+Head
+bounds:252,0,180,230
+rotate:180

@@ -1,0 +1,7 @@
+lingmai5.png
+size:236,196
+filter:Linear,Linear
+pma:true
+lingmai5
+bounds:2,2,232,192
+offsets:10,4,252,196

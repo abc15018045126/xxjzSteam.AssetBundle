@@ -1,0 +1,16 @@
+skeleton.png
+size:232,278
+filter:Linear,Linear
+pma:true
+Circle_01
+bounds:2,115,201,161
+offsets:3,0,209,162
+grass_01
+bounds:205,247,23,29
+light_01
+bounds:130,2,111,100
+offsets:11,10,133,120
+rotate:90
+light_02
+bounds:2,2,126,111
+offsets:2,2,130,115

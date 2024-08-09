@@ -1,0 +1,16 @@
+skeleton.png
+size:149,137
+filter:Linear,Linear
+pma:true
+fruit/04
+bounds:86,68,67,61
+rotate:90
+grow/03
+bounds:86,9,51,57
+ripe/05
+bounds:2,47,88,82
+rotate:90
+seed/01
+bounds:54,16,25,29
+sprout/02
+bounds:2,2,50,43

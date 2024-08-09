@@ -1,0 +1,35 @@
+zhuque.png
+	size: 1636, 301
+	filter: Linear, Linear
+	pma: true
+houwei
+	bounds: 1133, 86, 311, 213
+	offsets: 0, 30, 311, 243
+shenti
+	bounds: 1027, 83, 104, 216
+tou
+	bounds: 1446, 4, 160, 184
+	offsets: 0, 0, 161, 184
+	rotate: 90
+toujia
+	bounds: 1446, 166, 188, 133
+	offsets: 2, 9, 196, 142
+weiba
+	bounds: 410, 7, 270, 292
+xiae
+	bounds: 682, 2, 19, 38
+	offsets: 0, 0, 19, 39
+youchibang
+	bounds: 682, 42, 257, 343
+	rotate: 90
+youzhua
+	bounds: 1027, 7, 74, 152
+	offsets: 0, 0, 77, 155
+	rotate: 90
+zuochibang
+	bounds: 2, 2, 297, 406
+	rotate: 90
+zuozhua
+	bounds: 1181, 10, 74, 144
+	offsets: 0, 0, 74, 145
+	rotate: 90

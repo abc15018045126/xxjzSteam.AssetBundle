@@ -1,0 +1,23 @@
+ghostleopard.png
+	size: 312, 536
+	filter: Linear, Linear
+	pma: true
+body
+	bounds: 2, 365, 270, 169
+	offsets: 0, 1, 284, 170
+footb
+	bounds: 117, 12, 65, 100
+	offsets: 0, 5, 65, 105
+footf
+	bounds: 212, 3, 86, 138
+handb
+	bounds: 216, 214, 92, 149
+handf
+	bounds: 2, 263, 100, 212
+	rotate: 90
+head
+	bounds: 2, 2, 113, 110
+mouse
+	bounds: 212, 143, 98, 69
+tail
+	bounds: 2, 114, 208, 147

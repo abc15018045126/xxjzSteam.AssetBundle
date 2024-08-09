@@ -1,0 +1,7 @@
+honghuangqingtongdeng.png
+size:149,203
+filter:Linear,Linear
+pma:true
+honghuangqingtongdeng
+bounds:2,2,145,199
+offsets:0,2,154,201

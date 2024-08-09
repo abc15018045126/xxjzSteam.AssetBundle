@@ -1,0 +1,6 @@
+6.png
+size:321,324
+filter:Linear,Linear
+touxiang6
+bounds:2,2,317,320
+offsets:0,0,319,325

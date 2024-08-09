@@ -1,0 +1,7 @@
+tree6.png
+size:299,317
+filter:Linear,Linear
+pma:true
+tree6
+bounds:2,2,295,313
+offsets:0,7,299,320

@@ -1,0 +1,7 @@
+lingquan2.png
+size:244,197
+filter:Linear,Linear
+pma:true
+lingquan2
+bounds:2,2,240,193
+offsets:0,2,240,195

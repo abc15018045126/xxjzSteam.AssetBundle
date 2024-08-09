@@ -1,0 +1,26 @@
+wuzhuaqinglong.png
+	size: 1922, 613
+	filter: Linear, Linear
+	pma: true
+shenti
+	bounds: 2, 2, 1174, 609
+	offsets: 3, 0, 1177, 616
+tou
+	bounds: 1178, 246, 458, 365
+xiae
+	bounds: 1778, 112, 213, 122
+	offsets: 3, 1, 217, 124
+	rotate: 90
+ya
+	bounds: 1902, 304, 18, 21
+	offsets: 1, 1, 20, 23
+youhoutui
+	bounds: 1671, 25, 105, 300
+youqiantui
+	bounds: 1431, 46, 238, 198
+	offsets: 0, 0, 238, 199
+zuohoutui
+	bounds: 1178, 50, 194, 251
+	rotate: 90
+zuoqiantui
+	bounds: 1638, 327, 270, 284

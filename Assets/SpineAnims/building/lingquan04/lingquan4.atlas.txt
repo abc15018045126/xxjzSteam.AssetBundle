@@ -1,0 +1,7 @@
+lingquan4.png
+size:292,233
+filter:Linear,Linear
+pma:true
+lingquan4
+bounds:2,2,288,229
+offsets:0,1,294,230

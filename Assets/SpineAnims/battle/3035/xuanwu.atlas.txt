@@ -1,0 +1,35 @@
+xuanwu.png
+	size: 1065, 532
+	filter: Linear, Linear
+	pma: true
+shenti
+	bounds: 2, 4, 526, 588
+	offsets: 1, 76, 730, 664
+	rotate: 90
+shewei
+	bounds: 592, 239, 291, 103
+	offsets: 1, 0, 293, 103
+	rotate: 90
+tou
+	bounds: 697, 283, 247, 183
+	rotate: 90
+wei
+	bounds: 882, 334, 196, 153
+	offsets: 0, 0, 199, 164
+	rotate: 90
+xiae
+	bounds: 754, 2, 104, 73
+	offsets: 1, 0, 105, 73
+yanhei
+	bounds: 592, 5, 22, 14
+	rotate: 90
+youhoutui
+	bounds: 918, 14, 145, 152
+	offsets: 1, 0, 146, 152
+youqiantui
+	bounds: 918, 168, 116, 164
+	offsets: 0, 3, 117, 167
+zuohoutui
+	bounds: 592, 29, 160, 208
+zuoqiantui
+	bounds: 754, 77, 162, 204

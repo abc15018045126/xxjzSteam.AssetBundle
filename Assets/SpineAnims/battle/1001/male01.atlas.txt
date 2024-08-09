@@ -1,0 +1,64 @@
+male01.png
+	size: 221, 269
+	filter: Linear, Linear
+	pma: true
+Fhairb
+	bounds: 66, 113, 43, 87
+	rotate: 90
+Fhairf
+	bounds: 158, 188, 53, 79
+armb
+	bounds: 181, 12, 22, 31
+armf
+	bounds: 197, 127, 22, 31
+body
+	bounds: 124, 42, 47, 69
+	offsets: 0, 4, 47, 73
+eyeb
+	bounds: 200, 79, 19, 16
+eyebrowb
+	bounds: 200, 56, 21, 12
+	offsets: 1, 0, 22, 12
+	rotate: 90
+eyebrowf
+	bounds: 205, 21, 33, 10
+	rotate: 90
+eyef
+	bounds: 199, 160, 26, 18
+	offsets: 1, 0, 27, 19
+	rotate: 90
+footb
+	bounds: 173, 80, 22, 33
+	offsets: 1, 0, 23, 33
+footf
+	bounds: 158, 138, 22, 35
+	offsets: 0, 0, 22, 36
+	rotate: 90
+handb
+	bounds: 155, 115, 21, 35
+	offsets: 0, 2, 21, 37
+	rotate: 90
+handf
+	bounds: 158, 162, 24, 39
+	offsets: 0, 0, 24, 40
+	rotate: 90
+head
+	bounds: 66, 158, 90, 109
+	offsets: 3, 0, 93, 109
+mine
+	bounds: 2, 2, 100, 120
+	offsets: 1, 0, 103, 121
+	rotate: 90
+mouse
+	bounds: 213, 251, 16, 6
+	rotate: 90
+ponytail
+	bounds: 2, 104, 62, 163
+skirt
+	bounds: 124, 4, 55, 36
+	offsets: 0, 0, 55, 41
+thighb
+	bounds: 197, 97, 21, 28
+thighf
+	bounds: 173, 45, 25, 33
+	offsets: 0, 2, 25, 35

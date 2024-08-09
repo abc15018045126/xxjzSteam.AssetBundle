@@ -1,0 +1,28 @@
+goldrhino.png
+	size: 250, 569
+	filter: Linear, Linear
+	pma: true
+body
+	bounds: 2, 373, 245, 194
+earb
+	bounds: 158, 2, 34, 82
+	rotate: 90
+earf
+	bounds: 76, 15, 49, 80
+	rotate: 90
+footb
+	bounds: 196, 38, 51, 80
+	offsets: 0, 1, 51, 81
+footf
+	bounds: 187, 210, 61, 161
+handb
+	bounds: 196, 120, 49, 88
+	offsets: 0, 0, 50, 88
+handf
+	bounds: 2, 18, 72, 188
+head
+	bounds: 2, 208, 183, 163
+	offsets: 0, 0, 183, 164
+mouse
+	bounds: 76, 66, 140, 118
+	rotate: 90

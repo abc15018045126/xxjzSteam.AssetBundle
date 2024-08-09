@@ -1,0 +1,29 @@
+baihu.png
+	size: 560, 308
+	filter: Linear, Linear
+	pma: true
+shenqu
+	bounds: 2, 16, 290, 169
+	offsets: 1, 5, 291, 174
+	rotate: 90
+tou
+	bounds: 425, 4, 128, 117
+	offsets: 0, 5, 128, 122
+	rotate: 90
+weiba
+	bounds: 392, 210, 166, 96
+	offsets: 0, 0, 166, 97
+xiae
+	bounds: 173, 2, 64, 64
+youhoutui
+	bounds: 278, 6, 101, 145
+	offsets: 0, 0, 102, 145
+	rotate: 90
+youqiantui
+	bounds: 392, 134, 74, 165
+	offsets: 0, 5, 76, 171
+	rotate: 90
+zuohoutui
+	bounds: 278, 109, 112, 197
+zuoqiantui
+	bounds: 173, 68, 103, 238

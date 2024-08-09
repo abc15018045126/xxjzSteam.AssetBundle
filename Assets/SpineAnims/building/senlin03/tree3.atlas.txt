@@ -1,0 +1,7 @@
+tree3.png
+size:241,242
+filter:Linear,Linear
+pma:true
+tree3
+bounds:2,2,237,238
+offsets:0,2,240,240

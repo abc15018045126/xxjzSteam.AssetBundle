@@ -1,0 +1,13 @@
+linghu1.png
+size:278,244
+filter:Linear,Linear
+pma:true
+linghu1
+bounds:2,2,240,240
+yu01
+bounds:244,170,31,17
+offsets:1,0,32,17
+yu02
+bounds:244,189,53,32
+offsets:0,1,55,33
+rotate:90

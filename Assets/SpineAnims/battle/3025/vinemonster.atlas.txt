@@ -1,0 +1,69 @@
+vinemonster.png
+	size: 883, 144
+	filter: Linear, Linear
+	pma: true
+2tm
+	bounds: 459, 2, 67, 44
+L-arm
+	bounds: 769, 65, 64, 77
+L-arm2
+	bounds: 737, 7, 51, 70
+	rotate: 90
+L-arm3
+	bounds: 659, 58, 84, 54
+	rotate: 90
+L-datui
+	bounds: 387, 5, 40, 70
+	offsets: 0, 0, 40, 71
+	rotate: 90
+L-jiao
+	bounds: 596, 8, 39, 63
+	rotate: 90
+R-arm
+	bounds: 809, 16, 46, 47
+	offsets: 0, 3, 46, 50
+R-arm2
+	bounds: 280, 2, 39, 68
+	rotate: 90
+R-arm3
+	bounds: 715, 60, 82, 52
+	rotate: 90
+R-datui
+	bounds: 835, 77, 46, 65
+R-jiao
+	bounds: 528, 6, 40, 66
+	rotate: 90
+shenti
+	bounds: 81, 9, 133, 64
+	rotate: 90
+tm1
+	bounds: 609, 55, 87, 48
+	rotate: 90
+tm2
+	bounds: 223, 31, 111, 55
+	rotate: 90
+tm3
+	bounds: 332, 46, 96, 41
+	rotate: 90
+tm4
+	bounds: 375, 47, 73, 95
+tm5
+	bounds: 147, 11, 42, 18
+tm6
+	bounds: 661, 3, 53, 74
+	rotate: 90
+tm7
+	bounds: 350, 2, 42, 35
+	rotate: 90
+tou1
+	bounds: 450, 48, 78, 94
+tou2
+	bounds: 530, 49, 77, 93
+yezi1
+	bounds: 2, 9, 133, 77
+	rotate: 90
+yezi2
+	bounds: 147, 31, 111, 74
+	rotate: 90
+yezi3
+	bounds: 280, 43, 50, 99

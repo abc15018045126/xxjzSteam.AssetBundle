@@ -1,0 +1,6 @@
+ore_10007.png
+size:74,77
+filter:Linear,Linear
+ore_10007
+bounds:2,2,70,73
+offsets:0,0,71,73

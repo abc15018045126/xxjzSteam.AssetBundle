@@ -1,0 +1,7 @@
+tree5.png
+size:320,311
+filter:Linear,Linear
+pma:true
+tree5
+bounds:2,2,316,307
+offsets:0,4,320,311

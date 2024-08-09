@@ -1,0 +1,7 @@
+cangku.png
+size:400,402
+filter:Linear,Linear
+pma:true
+cangku
+bounds:2,2,396,398
+offsets:0,1,400,400

@@ -1,0 +1,30 @@
+thundertiger.png
+	size: 554, 470
+	filter: Linear, Linear
+	pma: true
+body
+	bounds: 371, 166, 302, 175
+	offsets: 6, 0, 308, 182
+	rotate: 90
+footb
+	bounds: 2, 16, 60, 120
+	rotate: 90
+footf
+	bounds: 208, 226, 76, 159
+	rotate: 90
+handb
+	bounds: 2, 78, 110, 163
+	rotate: 90
+handf
+	bounds: 2, 190, 112, 204
+	rotate: 90
+head
+	bounds: 208, 112, 112, 140
+	rotate: 90
+tail
+	bounds: 167, 3, 133, 107
+wingb
+	bounds: 350, 2, 162, 202
+	rotate: 90
+wingf
+	bounds: 2, 304, 367, 164

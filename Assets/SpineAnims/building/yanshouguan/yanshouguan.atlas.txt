@@ -1,0 +1,7 @@
+yanshouguan.png
+size:161,93
+filter:Linear,Linear
+pma:true
+yanshouguan
+bounds:2,2,157,89
+offsets:0,1,157,90

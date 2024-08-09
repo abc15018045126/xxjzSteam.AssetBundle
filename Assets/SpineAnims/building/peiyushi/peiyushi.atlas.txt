@@ -1,0 +1,6 @@
+peiyushi.png
+size:195,159
+filter:Linear,Linear
+pma:true
+peiyushi
+bounds:2,2,191,155

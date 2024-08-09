@@ -1,0 +1,55 @@
+whitebear.png
+	size: 973, 308
+	filter: Linear, Linear
+	pma: true
+armb
+	bounds: 134, 24, 69, 100
+	offsets: 0, 2, 69, 102
+	rotate: 90
+armf
+	bounds: 657, 8, 112, 147
+bodya
+	bounds: 213, 100, 207, 188
+	offsets: 12, 0, 219, 188
+	rotate: 90
+bodyb
+	bounds: 1, 95, 212, 210
+	offsets: 0, 0, 220, 211
+	rotate: 90
+earb
+	bounds: 403, 105, 33, 29
+	rotate: 90
+earf
+	bounds: 873, 19, 44, 44
+	offsets: 0, 0, 45, 44
+footb
+	bounds: 873, 65, 99, 62
+	offsets: 0, 0, 99, 63
+footf
+	bounds: 397, 13, 77, 85
+	offsets: 9, 0, 86, 85
+handb
+	bounds: 476, 22, 116, 179
+	offsets: 0, 0, 116, 184
+	rotate: 90
+handf
+	bounds: 403, 140, 167, 219
+	rotate: 90
+head
+	bounds: 771, 11, 116, 100
+	offsets: 3, 0, 119, 100
+	rotate: 90
+head2
+	bounds: 624, 157, 146, 150
+	offsets: 0, 0, 146, 151
+head3
+	bounds: 772, 129, 178, 198
+	rotate: 90
+thighb
+	bounds: 1, 1, 92, 131
+	offsets: 0, 1, 94, 132
+	rotate: 90
+thighf
+	bounds: 236, 2, 96, 159
+	offsets: 0, 15, 96, 174
+	rotate: 90

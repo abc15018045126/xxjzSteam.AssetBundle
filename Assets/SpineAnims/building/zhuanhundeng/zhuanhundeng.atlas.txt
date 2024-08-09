@@ -1,0 +1,7 @@
+zhuanhundeng.png
+size:91,156
+filter:Linear,Linear
+pma:true
+zhuanhundeng
+bounds:2,2,87,152
+offsets:0,1,87,153

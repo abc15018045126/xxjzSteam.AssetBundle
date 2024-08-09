@@ -1,0 +1,7 @@
+tree4.png
+size:320,307
+filter:Linear,Linear
+pma:true
+tree4
+bounds:2,2,316,303
+offsets:0,2,320,305

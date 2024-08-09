@@ -1,0 +1,24 @@
+windrabbit.png
+	size: 321, 257
+	filter: Linear, Linear
+	pma: true
+L-hj
+	bounds: 174, 4, 72, 110
+L-qj
+	bounds: 248, 68, 62, 84
+R-hj
+	bounds: 245, 154, 74, 101
+R-qj
+	bounds: 248, 16, 50, 70
+	rotate: 90
+mao
+	bounds: 133, 141, 110, 114
+shenti
+	bounds: 2, 2, 170, 95
+tou
+	bounds: 2, 99, 129, 156
+yan1
+	bounds: 160, 116, 23, 19
+	rotate: 90
+yan2
+	bounds: 133, 114, 25, 25

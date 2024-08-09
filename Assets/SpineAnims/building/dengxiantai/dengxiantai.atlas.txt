@@ -1,0 +1,7 @@
+dengxiantai.png
+size:210,242
+filter:Linear,Linear
+pma:true
+dengxiantai
+bounds:2,2,206,238
+offsets:1,0,208,238

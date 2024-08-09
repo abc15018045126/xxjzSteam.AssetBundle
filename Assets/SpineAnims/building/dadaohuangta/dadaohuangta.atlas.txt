@@ -1,0 +1,7 @@
+dadaohuangta.png
+size:166,244
+filter:Linear,Linear
+pma:true
+dadaohuangta
+bounds:2,2,162,240
+offsets:1,0,163,240

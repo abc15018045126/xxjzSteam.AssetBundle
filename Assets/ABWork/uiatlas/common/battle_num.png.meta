@@ -1,0 +1,1897 @@
+fileFormatVersion: 2
+guid: 0d3c5b6dca3d00b48bcd2d3e2ad0de90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: bnum_0
+  - first:
+      213: 21300002
+    second: bnum_1
+  - first:
+      213: 21300004
+    second: bnum_2
+  - first:
+      213: 21300006
+    second: bnum_3
+  - first:
+      213: 21300008
+    second: bnum_4
+  - first:
+      213: 21300010
+    second: bnum_5
+  - first:
+      213: 21300012
+    second: bnum_6
+  - first:
+      213: 21300014
+    second: bnum_7
+  - first:
+      213: 21300016
+    second: bnum_8
+  - first:
+      213: 21300018
+    second: bnum_9
+  - first:
+      213: 21300020
+    second: bnum_10
+  - first:
+      213: 21300022
+    second: bnum_11
+  - first:
+      213: 21300024
+    second: bnum_12
+  - first:
+      213: 21300026
+    second: bnum_13
+  - first:
+      213: 21300028
+    second: bnum_14
+  - first:
+      213: 21300030
+    second: bnum_15
+  - first:
+      213: 21300032
+    second: bnum_16
+  - first:
+      213: 21300034
+    second: bnum_17
+  - first:
+      213: 21300036
+    second: bnum_18
+  - first:
+      213: 21300038
+    second: bnum_19
+  - first:
+      213: 21300040
+    second: bnum_20
+  - first:
+      213: 21300042
+    second: bnum_21
+  - first:
+      213: 21300044
+    second: bnum_22
+  - first:
+      213: 21300046
+    second: bnum_23
+  - first:
+      213: 21300048
+    second: bnum_24
+  - first:
+      213: 21300050
+    second: bnum_25
+  - first:
+      213: 21300052
+    second: bnum_26
+  - first:
+      213: 21300054
+    second: bnum_27
+  - first:
+      213: 21300056
+    second: bnum_28
+  - first:
+      213: 21300058
+    second: bnum_29
+  - first:
+      213: 21300060
+    second: bnum_30
+  - first:
+      213: 21300062
+    second: bnum_31
+  - first:
+      213: 21300064
+    second: bnum_32
+  - first:
+      213: 21300066
+    second: bnum_33
+  - first:
+      213: 21300068
+    second: bnum_34
+  - first:
+      213: 21300070
+    second: bnum_35
+  - first:
+      213: 21300072
+    second: bnum_36
+  - first:
+      213: 21300074
+    second: bnum_37
+  - first:
+      213: 21300076
+    second: bnum_38
+  - first:
+      213: 21300078
+    second: bnum_39
+  - first:
+      213: 21300080
+    second: bnum_40
+  - first:
+      213: 21300082
+    second: bnum_41
+  - first:
+      213: 21300084
+    second: bnum_42
+  - first:
+      213: 21300086
+    second: bnum_43
+  - first:
+      213: 21300088
+    second: bnum_44
+  - first:
+      213: 21300090
+    second: bnum_45
+  - first:
+      213: 21300092
+    second: bnum_46
+  - first:
+      213: 21300094
+    second: bnum_47
+  - first:
+      213: 21300096
+    second: bnum_48
+  - first:
+      213: 21300098
+    second: bnum_49
+  - first:
+      213: 21300100
+    second: miss
+  - first:
+      213: 21300102
+    second: crit
+  - first:
+      213: 21300104
+    second: parry
+  - first:
+      213: 21300106
+    second: bnum_53
+  - first:
+      213: 21300108
+    second: bnum_54
+  - first:
+      213: 21300110
+    second: poisonMiss
+  - first:
+      213: 21300112
+    second: magicMiss
+  - first:
+      213: 21300114
+    second: bnum_50
+  - first:
+      213: 21300116
+    second: bnum_51
+  - first:
+      213: 21300118
+    second: bnum_52
+  - first:
+      213: 21300120
+    second: bnum_55
+  - first:
+      213: 21300122
+    second: bnum_56
+  - first:
+      213: 21300124
+    second: bnum_57
+  - first:
+      213: 21300126
+    second: bnum_58
+  - first:
+      213: 21300128
+    second: bnum_59
+  - first:
+      213: 21300130
+    second: exp
+  - first:
+      213: 21300132
+    second: battle_num_0
+  - first:
+      213: 21300134
+    second: battle_num_1
+  - first:
+      213: 21300136
+    second: battle_num_2
+  - first:
+      213: 21300138
+    second: battle_num_3
+  - first:
+      213: 21300140
+    second: battle_num_4
+  - first:
+      213: 21300142
+    second: battle_num_5
+  - first:
+      213: 21300144
+    second: battle_num_6
+  - first:
+      213: 21300146
+    second: battle_num_7
+  - first:
+      213: 21300148
+    second: battle_num_8
+  - first:
+      213: 21300150
+    second: battle_num_9
+  - first:
+      213: 21300152
+    second: battle_num_10
+  - first:
+      213: 21300154
+    second: battle_num_11
+  - first:
+      213: 21300156
+    second: battle_num_12
+  - first:
+      213: 21300158
+    second: battle_num_13
+  - first:
+      213: 21300160
+    second: battle_num_14
+  - first:
+      213: 21300162
+    second: battle_num_15
+  - first:
+      213: 21300164
+    second: battle_num_16
+  - first:
+      213: 21300166
+    second: battle_num_17
+  - first:
+      213: 21300168
+    second: battle_num_18
+  - first:
+      213: 21300170
+    second: battle_num_19
+  - first:
+      213: 21300172
+    second: battle_num_20
+  - first:
+      213: 21300174
+    second: battle_num_21
+  - first:
+      213: 21300176
+    second: battle_num_22
+  - first:
+      213: 21300178
+    second: battle_num_23
+  - first:
+      213: 21300180
+    second: battle_num_24
+  - first:
+      213: 21300182
+    second: battle_num_25
+  - first:
+      213: 21300184
+    second: battle_num_26
+  - first:
+      213: 21300186
+    second: battle_num_27
+  - first:
+      213: 21300188
+    second: battle_num_28
+  - first:
+      213: 21300190
+    second: battle_num_29
+  - first:
+      213: 21300192
+    second: battle_num_30
+  - first:
+      213: 21300194
+    second: battle_num_31
+  - first:
+      213: 21300196
+    second: battle_num_32
+  - first:
+      213: 21300198
+    second: battle_num_33
+  - first:
+      213: 21300200
+    second: battle_num_34
+  - first:
+      213: 21300202
+    second: battle_num_35
+  - first:
+      213: 21300204
+    second: battle_num_36
+  - first:
+      213: 21300206
+    second: battle_num_37
+  - first:
+      213: 21300208
+    second: battle_num_38
+  - first:
+      213: 21300210
+    second: battle_num_39
+  - first:
+      213: 21300212
+    second: battle_num_40
+  - first:
+      213: 21300214
+    second: battle_num_41
+  - first:
+      213: 21300216
+    second: battle_num_42
+  - first:
+      213: 21300218
+    second: battle_num_43
+  - first:
+      213: 21300220
+    second: battle_num_44
+  - first:
+      213: 21300222
+    second: battle_num_45
+  - first:
+      213: 21300224
+    second: battle_num_46
+  - first:
+      213: 21300226
+    second: battle_num_47
+  - first:
+      213: 21300228
+    second: battle_num_48
+  - first:
+      213: 21300230
+    second: battle_num_49
+  - first:
+      213: 21300232
+    second: battle_num_50
+  - first:
+      213: 21300234
+    second: battle_num_51
+  - first:
+      213: 21300236
+    second: battle_num_52
+  - first:
+      213: 21300238
+    second: battle_num_53
+  - first:
+      213: 21300240
+    second: battle_num_54
+  - first:
+      213: 21300242
+    second: battle_num_55
+  - first:
+      213: 21300244
+    second: battle_num_56
+  - first:
+      213: 21300246
+    second: battle_num_57
+  - first:
+      213: 21300248
+    second: battle_num_58
+  - first:
+      213: 21300250
+    second: battle_num_59
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battle_num_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b57fe0b97d194e8ee8ebd5d590189
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 487
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54ae5da5e9faec438b1d805699c2ee4
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 488
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fc945e1294d4845884b379982abfde
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 488
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d37b285907dc429b329adc20dd530
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 488
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107d4bb49ed0863438ed38207d1aafdf
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 487
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b39b683269fb243860122ceb9f7b8a
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 487
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ef985d69be49f4eadf041f8bfc6958
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 487
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e1754e3f3271845a3a02df7d6ac349
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 487
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bbe676cd2ac8146975062cc08c1db6
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 487
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2769f41d01f25445a44ae9858531c2b
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 463
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2397961849cbb44682f58c81b062de8
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 462
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358f4fc5d701797468225e31f590e080
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 463
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5824c4e7075b39c4f9b80700d50816fc
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 463
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b4b954ed3d3e2408843495ea713c16
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 463
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ee379198215354295a1455c5601e89
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 463
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c706f55630a914c924f2bcf9317978
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 463
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415853d6af7a40d498ffa603805295ac
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 463
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1022e37da4b193049ad3b35792ddc5ec
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 463
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e07a18926d141b4cb43e82cc4e8c606
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 463
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14655c67bc0eccd42997aab82e7306f7
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 440
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8136d5c1d4d94a84c8c9e55bfc34961c
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 439
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2010ebb50cfe740995db2c7fa2d5d6
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 440
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aeacb69ddb9ac43940362999ac51ff
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 440
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa0e701e076f614daadb57809fb7282
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 440
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a53cc2005d65c4ba41bf0ca512dc9c
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 440
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29628de062c8d23479d66d38551292cd
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 440
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b214a12fa017924482e1c5617ece701
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 440
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961bed041d1059f43abf8c096a4604bc
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_28
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 440
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe86b2e17546c040a0998e2bdad8521
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 440
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61404651b189f3b49bf2c1eed750d9ec
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2cc4cb5926b5542be906ee287c884c
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_31
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 415
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713592524ecab114b88cb2dd64f882aa
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 416
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c362079c2368740b8a0f9323291643
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 416
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abbb43ca2c8f7b44a232e96b5f22fff
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 416
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4347522f643f64da4986e77d1123d4
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 415
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc0f23198575ea4382845ca0d6ca82d
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 415
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff541c6b7bcef4298cac64cac832ff
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 415
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3284ea3803eca947bc10721bf124706
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 415
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bf3bbe19d87f148b96530d7f95a5ee
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 415
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e99671a8896514c8de8132bfda272a
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a696af99d8cf45b35a81452a5d884
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 393
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01635c18f8f2a9549a6c01b7116d95b7
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 394
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045d4657de7ce0e4eb7c955b7d4c5ba5
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 394
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c20422a8ae8f2947b028b8c1a34cde7
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 394
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96d2041ae166a346a2c9da207ab9aed
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_45
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 393
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba8f1becfc866d40943355994398e8c
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 393
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ce4e6a7a3fb24f84a258c655f0ebd
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 393
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276249b24c290a44192c6a56b5aaef5f
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 393
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72addfa63fc044a4ea7bf72890738058
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 393
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8141e80e8ebc72a4d946119c2e184d56
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 271
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb064e4a1bfe76041a9f4815ef07cee2
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 268
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30dfcf73b57ee04a99c641732cf47b0
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parry
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 271
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2eca21af141824e8a5806844fe7940
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisonMiss
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 211
+        width: 167
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff8713a266491428ff27cb45ce28c2
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magicMiss
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 219
+        width: 166
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eb059b59fa1f74d8c37b7f3ce6d281
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 174
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30346865fed040a4985ddba008508235
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_51
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 175
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a8222d9a0e3b24d9562da8d7ab6fb5
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 175
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c0440a9d4ea646b0de4b77a045180
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_53
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 174
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40fe25cda22a4e4eb489790123f1554
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_54
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 175
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ac45fab58e73a46883813d205a9543
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_55
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 174
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460a42e38a2d20047aa8dafe9f9cf300
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 174
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d21791f9a7550347920d627c6236dbf
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 175
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d9545020d30114691a027e48580e72
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_58
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 174
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38e091b6272f724b9f3513da621e0d7
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_num_59
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 174
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c495b021caa50a4087dee3beaf06dbe
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 175
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67b173af29548e47a9aa0ed9212b913
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7b17c2bc2735cf547a50dc96bf540d17
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: uiatlas_common
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: ui_atlas_common
+  assetBundleVariant: 

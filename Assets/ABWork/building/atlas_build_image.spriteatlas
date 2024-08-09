@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_build_image
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2c9cddf60301c6d4eab6a5fccc49b4f6, type: 3}
+    bindAsDefault: 0
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 96ca8200f7884c144abc1840f2e61b52, type: 3}
+  - {fileID: 21300000, guid: af41785036d6deb419bd022745b0337d, type: 3}
+  - {fileID: 21300000, guid: 87f193b0a140e544fa0a6a0f1be81389, type: 3}
+  - {fileID: 21300000, guid: ea7f5fd0df7586d43ad882aea38c9374, type: 3}
+  - {fileID: 21300000, guid: 78c1ef619e7f1e2488d1d797395c382d, type: 3}
+  - {fileID: 21300000, guid: f9324d812e502324aae6a48bec858f7b, type: 3}
+  - {fileID: 21300000, guid: 41316ca1a65f66648bc0cdc7aab59e40, type: 3}
+  - {fileID: 21300000, guid: 21e483b1d45ed1943b130234cafa2fc0, type: 3}
+  - {fileID: 21300000, guid: 697861c16bb14b34ca81e225edaa8689, type: 3}
+  - {fileID: 21300000, guid: 26bc1202d3b593a41955b11690c31dd8, type: 3}
+  - {fileID: 21300000, guid: 0d393222ddb09e649872b6e92323bb48, type: 3}
+  - {fileID: 21300000, guid: 09496f229161e1a4cb08859fa766dcb3, type: 3}
+  - {fileID: 21300000, guid: 549109422b989bf4fa68dec2cadff452, type: 3}
+  - {fileID: 21300000, guid: babad562350268b498375fd158c57801, type: 3}
+  - {fileID: 21300000, guid: 467ab792938c80d47a4a993915e81fb0, type: 3}
+  - {fileID: 21300000, guid: eafa7343b269bfb4c9f66ddb6baf9f39, type: 3}
+  - {fileID: 21300000, guid: a84e8df3c44348744b7ea3b924c8802a, type: 3}
+  - {fileID: 21300000, guid: 24d38484b81eb7d45bf7a201f272a5f5, type: 3}
+  - {fileID: 21300000, guid: 6e83b6c47379bed45b452178e3a3ced0, type: 3}
+  - {fileID: 21300000, guid: ca3d69d4b7461f74aae460e6f1c82a27, type: 3}
+  - {fileID: 21300000, guid: 5bc5f5f4f37bbc747b8d42ce7a86560f, type: 3}
+  - {fileID: 21300000, guid: a39e6b352be7b8b4c8d07c805dde9dd8, type: 3}
+  - {fileID: 21300000, guid: 4580435598b363f4db08e16dc050e02d, type: 3}
+  - {fileID: 21300000, guid: 0a23da55ed068634a8b67857fd115bb7, type: 3}
+  - {fileID: 21300000, guid: b45e597516ebef2488bb8b34496c5e4f, type: 3}
+  - {fileID: 21300000, guid: 745e1f2637f15ce4bb214258361f3918, type: 3}
+  - {fileID: 21300000, guid: e2a57336fd757264bb0ba5990dc5c761, type: 3}
+  - {fileID: 21300000, guid: 0a501fb6dfa432d4a8869aae949b5314, type: 3}
+  - {fileID: 21300000, guid: e389d30746c199a48b66346cbaada3cf, type: 3}
+  - {fileID: 21300000, guid: f6abb217593b6b249a4e1e4d95aff114, type: 3}
+  - {fileID: 21300000, guid: bbe757178f93bce46a7d838e13fd81ee, type: 3}
+  - {fileID: 21300000, guid: 9ba097276a906db4087b6f1bbd9d7d1a, type: 3}
+  - {fileID: 21300000, guid: 55831e2729ef9dd4d9c1682f10e30f67, type: 3}
+  - {fileID: 21300000, guid: da662b3761dea92459edde9cd8cff878, type: 3}
+  - {fileID: 21300000, guid: 71ec7957df5bb144a8227a8934478cb8, type: 3}
+  - {fileID: 21300000, guid: 38cda7a7fc7b1d041b4ad3f48e8bab18, type: 3}
+  - {fileID: 21300000, guid: 646628d7491540d4e8fab15233847727, type: 3}
+  - {fileID: 21300000, guid: dc503de7ff6291649a582f5af57c4f01, type: 3}
+  - {fileID: 21300000, guid: e1953df74bb95da479e4eb26575f7472, type: 3}
+  - {fileID: 21300000, guid: c1b8cf186dd8cd74aa4ef1a7cf99212f, type: 3}
+  - {fileID: 21300000, guid: d28734281d0356c4aa50df4cfd484136, type: 3}
+  - {fileID: 21300000, guid: b51851384cedc1f41801d4e97e470051, type: 3}
+  - {fileID: 21300000, guid: 51f8a7587a39ce242918cddc63eb75bf, type: 3}
+  - {fileID: 21300000, guid: d5d7e67854b0ef14cbe32413c837ae35, type: 3}
+  - {fileID: 21300000, guid: aa96ac982a68d4042a6d5bd0ba748d05, type: 3}
+  - {fileID: 21300000, guid: b879c2a81b4badb4d84073f9a120fd27, type: 3}
+  - {fileID: 21300000, guid: 63d469a88fcbc094abdb833cd84bdefd, type: 3}
+  - {fileID: 21300000, guid: 78e57c09b219db646a16caa46dd48e43, type: 3}
+  - {fileID: 21300000, guid: 6b605a19c335adb47a220d7ec3ab56e1, type: 3}
+  - {fileID: 21300000, guid: bdfae459115707c4cb4765d06ca01b82, type: 3}
+  - {fileID: 21300000, guid: 94f337b9274b1b341822885bd8bcdf5c, type: 3}
+  - {fileID: 21300000, guid: 1fe8f8c933da4b143b81964229c17d19, type: 3}
+  - {fileID: 21300000, guid: 4fa3a9c9c79cfcc4cb23e0f86d39ac90, type: 3}
+  - {fileID: 21300000, guid: d9fea7d927bc74a45ab9e1f5ed34965a, type: 3}
+  - {fileID: 21300000, guid: 982d09d9271a6d04c8a7449e1be4180c, type: 3}
+  - {fileID: 21300000, guid: b6736d0a9883ecb4481aa3ca4d60a893, type: 3}
+  - {fileID: 21300000, guid: 9299104aa8bb5c94dbda2cd8ac2ed091, type: 3}
+  - {fileID: 21300000, guid: 5bce47daec28f7d438b26d64b9261871, type: 3}
+  - {fileID: 21300000, guid: 08f1c0fade1864841899a5a99cd937f3, type: 3}
+  - {fileID: 21300000, guid: db54d12bd6803f446bb168b5009479cd, type: 3}
+  - {fileID: 21300000, guid: 3761673bf6145e44aac5905ba3ba84b7, type: 3}
+  - {fileID: 21300000, guid: 08cbfb9bd15aeb747967d6e9adbdbe22, type: 3}
+  - {fileID: 21300000, guid: 6655d1ab113412342b411df250215772, type: 3}
+  - {fileID: 21300000, guid: 70e6d4db01b8c9a4682c9f9c9f40343c, type: 3}
+  - {fileID: 21300000, guid: c463a9db0f106c94eaefca1891afcfe7, type: 3}
+  - {fileID: 21300000, guid: 8f12d2fbf4ea676488e95fd28d527d98, type: 3}
+  - {fileID: 21300000, guid: e451663c9da8b2f489feb8dd02ca7df3, type: 3}
+  - {fileID: 21300000, guid: c17c8d5c64c853e428cd0f0436f9c4b8, type: 3}
+  - {fileID: 21300000, guid: 5b8d578c554222643b6fce3af5fd510d, type: 3}
+  - {fileID: 21300000, guid: ad24cecc04e4a3841a4b5bb7b092708c, type: 3}
+  - {fileID: 21300000, guid: a5f5591dfe8712042ae2c351025582d1, type: 3}
+  - {fileID: 21300000, guid: 68dd4aad37f371747b040b255e31bb09, type: 3}
+  - {fileID: 21300000, guid: df164dcdfe0c40f4c8c26b8089466696, type: 3}
+  - {fileID: 21300000, guid: f62872dd982ed0c40bb0db0153ee5ca0, type: 3}
+  - {fileID: 21300000, guid: 0550c74ed31b2bb4c9e1574356d45e87, type: 3}
+  - {fileID: 21300000, guid: bb5d2b5e71906ab479f6287d1d4b76f4, type: 3}
+  - {fileID: 21300000, guid: 4b66d57eaefa91c4fb52162d47480622, type: 3}
+  - {fileID: 21300000, guid: fdf6ba7e02aa5e44cb1f8fa2c06e960c, type: 3}
+  - {fileID: 21300000, guid: eda94b9e79ee65147b66c0b99efb0e93, type: 3}
+  - {fileID: 21300000, guid: 1e093bbe3cdd3034092e46538cfc5f4d, type: 3}
+  - {fileID: 21300000, guid: 5adfea3f975be634ea0796d0f6198113, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - lingmai5
+  - mijing5
+  - 201
+  - lingmai3
+  - dilao
+  - tree7
+  - xuelingchi
+  - citang
+  - cao2
+  - lingquan1
+  - kuangchan4
+  - linghu2
+  - kuangchan1
+  - lingquan2
+  - 221
+  - tree5
+  - kuangchan12
+  - tree2
+  - shuwutang
+  - 321
+  - kuangchan14
+  - 281
+  - kuangchan5
+  - 271
+  - peiyushi
+  - kuangchan2
+  - lingzhitang
+  - lianqi
+  - dating
+  - kuangchan16
+  - 231
+  - tree4
+  - linghu1
+  - kuangchan6
+  - kuangchan15
+  - lingquan5
+  - linghu6
+  - 301
+  - 349
+  - tree6
+  - mijing6
+  - tree1
+  - mijing4
+  - zhenyaotang
+  - 251
+  - cangku
+  - zhenfa
+  - lingquan4
+  - mijing2
+  - kuangchan13
+  - 191
+  - linghu4
+  - lingmai2
+  - 331
+  - lingquan6
+  - yuwaitiantai
+  - lingmai1
+  - 350
+  - lingquan3
+  - 348
+  - mijing1
+  - 161
+  - cangjingge
+  - linghu5
+  - mijing3
+  - lingmai6
+  - liandan
+  - lingmai4
+  - 341
+  - kuangchan11
+  - cao1
+  - kuangchan3
+  - 291
+  - lianfu
+  - tiandaotai
+  - 311
+  - linghu3
+  - kezhan
+  - jiaoyiqu
+  - shangpu
+  - tree3
+  m_RenderDataMap: {}
+  m_Tag: atlas_build_image
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

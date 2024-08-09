@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_field_image
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9bf533bdd45890b43ab8b0d5ea25c875, type: 3}
+    bindAsDefault: 0
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4b225c333ef37eb478fd8a27f012aef8, type: 3}
+  - {fileID: 21300000, guid: 943b00f616b9a674fa775b1c1b74ac4f, type: 3}
+  - {fileID: 21300000, guid: 2269426d68a7f7e479ffd5429b54b829, type: 3}
+  - {fileID: 21300000, guid: b0930eeef2a51dd4a89146355b00d32c, type: 3}
+  - {fileID: 21300000, guid: 5bd2fafe7ccee1c43ae741b2e7cb9edc, type: 3}
+  - {fileID: 21300000, guid: 165ada8f8c5389c4193c0252f1aec67a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - lingtian6
+  - lingtian5
+  - lingtian3
+  - lingtian4
+  - lingtian
+  - lingtian2
+  m_RenderDataMap: {}
+  m_Tag: atlas_field_image
+  m_IsVariant: 0
+  m_IsPlaceholder: 0
